@@ -1,0 +1,8 @@
+﻿  TEMA_GIT.cpp
+  viuuu.cpp
+C:\Users\Student\Documents\GitHub\Tema-Gitleros\TEMA_GIT\TEMA_GIT\viuuu.cpp(5,35): error C2084: функция "void Uicontrol::Print(std::string)" уже имеет текст реализации
+C:\Users\Student\Documents\GitHub\Tema-Gitleros\TEMA_GIT\TEMA_GIT\viu2.h(8): message : см. предыдущее определение "Print"
+C:\Users\Student\Documents\GitHub\Tema-Gitleros\TEMA_GIT\TEMA_GIT\viuuu.cpp(8,45): error C2084: функция "void Uicontrol::PrintMas(std::vector<std::string,std::allocator<std::string>>)" уже имеет текст реализации
+C:\Users\Student\Documents\GitHub\Tema-Gitleros\TEMA_GIT\TEMA_GIT\viu2.h(10): message : см. предыдущее определение "PrintMas"
+C:\Users\Student\Documents\GitHub\Tema-Gitleros\TEMA_GIT\TEMA_GIT\viuuu.cpp(9,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
