@@ -139,10 +139,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="File_manage.cpp" />
+    <ClCompile Include="VIU_INPUT.cpp" />
+    <ClCompile Include="VIU_OUTPUT.cpp" />
     <ClCompile Include="TEMA_GIT.cpp" />
     <ClCompile Include="viuuu.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="File_meneg.h" />
+    <ClInclude Include="VIU_OUTPUT.h" />
+    <ClInclude Include="VIU_INPUT.h" />
     <ClInclude Include="viu2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

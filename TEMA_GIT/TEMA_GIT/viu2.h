@@ -8,3 +8,17 @@ public:
 	static void Print(string out);//static void Print(string out);  статический
 	void PrintMas(vector<string>def);
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
