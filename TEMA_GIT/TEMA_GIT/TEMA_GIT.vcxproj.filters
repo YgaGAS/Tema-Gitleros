@@ -39,6 +39,12 @@
     <ClCompile Include="File_manage.cpp">
       <Filter>Исходные файлы\MODUL</Filter>
     </ClCompile>
+    <ClCompile Include="Statya_Artikul.cpp">
+      <Filter>Исходные файлы\MODUL</Filter>
+    </ClCompile>
+    <ClCompile Include="Parser.cpp">
+      <Filter>Исходные файлы\MODUL</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="viu2.h">
@@ -51,6 +57,12 @@
       <Filter>Исходные файлы\VIU</Filter>
     </ClInclude>
     <ClInclude Include="File_meneg.h">
+      <Filter>Исходные файлы\MODUL</Filter>
+    </ClInclude>
+    <ClInclude Include="Statya_Artikul.h">
+      <Filter>Исходные файлы\MODUL</Filter>
+    </ClInclude>
+    <ClInclude Include="Parser.h">
       <Filter>Исходные файлы\MODUL</Filter>
     </ClInclude>
   </ItemGroup>

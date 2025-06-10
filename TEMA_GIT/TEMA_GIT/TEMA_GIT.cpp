@@ -25,10 +25,10 @@ int main(){
 	//cout << d;
 
 
-	output out;//подключение output
+	output out;//подключение output									   
 	File_manage file("TEXT.txt"); //модуль выводит то что в текстовом файле (МОДУЛЬ-РАБОТАЕТ С БАЗОЙ ДАННЫХ)
-	string gg;
-	gg = file.Read();
+	string gg;														   
+	gg = file.Read();												   
 	out.Print(gg);
 	cin >> gg;
 	out.Print(gg);//вывод через output
