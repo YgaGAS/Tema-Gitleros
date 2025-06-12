@@ -7,14 +7,15 @@ class Parser : public File_manage {
 public:
 	Parser(string s) :File_manage(s) {};
 	
-	void getArticle(Statya) {
-	
-	
-	
-	};
+	void getArticle(Statya);
 
-	string Read() override;
-	void Write(string) override;
+	//string Read() override;
+	Statya outArticle();
+	 
 
 };
+
+
+
+
 

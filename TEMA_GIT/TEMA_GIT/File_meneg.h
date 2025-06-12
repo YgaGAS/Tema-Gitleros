@@ -12,8 +12,8 @@ public:
 	File_manage(string);
 
 	virtual string Read();
-	template<class T>;//
-	virtual void Write(string);//
+
+	void Write(string);//
 
 
 

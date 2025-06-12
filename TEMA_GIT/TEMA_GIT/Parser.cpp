@@ -6,7 +6,22 @@ void Parser::getArticle(Statya a) {
 	string result = a.Autor + " " + a.title + " " + cout_s + " " + cout_d;
 	Write(result);
 
+};
 
 
-
+Statya Parser::outArticle() {
+	Statya out;
+	string a ;
+	string b;
+	f >> out.Autor;
+	f >> out.title;
+	f >> a;
+	f >> b;
+	//мы дастоем слово из файла
+       			     //get line из строчки 
+	//f >> out.a;
+	//f >> out.b;
+	out.count_symvols = stoi(a);
+	out.data  = stoi(b);
+	return(out);
 };
