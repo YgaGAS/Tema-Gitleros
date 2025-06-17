@@ -45,6 +45,9 @@
     <ClCompile Include="Parser.cpp">
       <Filter>Исходные файлы\MODUL</Filter>
     </ClCompile>
+    <ClCompile Include="Toolscpp.cpp">
+      <Filter>Исходные файлы\CONTROL</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="viu2.h">
@@ -64,6 +67,9 @@
     </ClInclude>
     <ClInclude Include="Parser.h">
       <Filter>Исходные файлы\MODUL</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools.h">
+      <Filter>Исходные файлы\CONTROL</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

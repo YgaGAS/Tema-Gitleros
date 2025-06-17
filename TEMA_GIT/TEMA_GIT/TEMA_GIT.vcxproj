@@ -142,6 +142,7 @@
     <ClCompile Include="File_manage.cpp" />
     <ClCompile Include="Parser.cpp" />
     <ClCompile Include="Statya_Artikul.cpp" />
+    <ClCompile Include="Toolscpp.cpp" />
     <ClCompile Include="VIU_INPUT.cpp" />
     <ClCompile Include="VIU_OUTPUT.cpp" />
     <ClCompile Include="TEMA_GIT.cpp" />
@@ -150,6 +151,7 @@
   <ItemGroup>
     <ClInclude Include="File_meneg.h" />
     <ClInclude Include="Parser.h" />
+    <ClInclude Include="Tools.h" />
     <ClInclude Include="Statya_Artikul.h" />
     <ClInclude Include="VIU_OUTPUT.h" />
     <ClInclude Include="VIU_INPUT.h" />
